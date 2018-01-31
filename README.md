@@ -1,1 +1,2 @@
 # gitverkefni
+##Ari Páll
